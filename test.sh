@@ -1,6 +1,6 @@
 #!/bin/bash
 
 git pull origin master
-APP="test"
+APP="test1"
 
 echo ${APP}
